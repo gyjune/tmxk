@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://d.kstore.dev/download/8177/电视直播/tv.json",
+      "url": "https://8177.kstore.space/电视直播/tv.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
