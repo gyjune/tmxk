@@ -737,7 +737,6 @@
       "key": "南瓜",
       "name": "🍒️南瓜影视|T爽剧",
       "type": 3,
-      "jar": " ./lib/wudixm.jar",
       "api": "csp_NanGua",
       "searchable": 1,
       "quickSearch": 1,
